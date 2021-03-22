@@ -4,4 +4,4 @@ This repo is the official implementation for [3D Human Pose Estimation with Spat
 Our code will be coming soon.
 
 ## PoseFormer:
-<p align="center"> <img src="./figure/PoseFormer.png" width="105%"> </p>
+<p align="center"> <img src="./figure/PoseFormer.gif" width="105%"> </p>
