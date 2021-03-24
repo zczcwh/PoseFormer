@@ -8,4 +8,4 @@ Our code will be coming soon.
 
 
 ## Demo Video
-[![Demo Video]](https://youtu.be/z8HWOdXjGR8)
+[Demo Video](https://youtu.be/z8HWOdXjGR8)
