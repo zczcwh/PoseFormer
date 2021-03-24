@@ -8,4 +8,4 @@ Our code will be coming soon.
 
 
 ## Demo Video
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/z8HWOdXjGR8)
+[![Demo Video]](https://youtu.be/z8HWOdXjGR8)
