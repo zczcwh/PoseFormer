@@ -12,11 +12,11 @@ Our code will be coming soon.
 ## Video Demo
 
 
-| <p align="left"> <img src="./figure/PoseFormer.gif" width="30%"> </p> | 
+| <p align="center"> <img src="./figure/H3.6-GIF.gif" width="60%"> </p> | 
 |:--:| 
 | 3D HPE on Human3.6 |
 
-| <p align="left"> <img src="./figure/PoseFormer.gif" width="30%"> </p> | 
+| <p align="center"> <img src="./figure/wild-GIF.gif" width="60%"> </p> | 
 |:--:| 
 | 3D HPE on videos in-the-wild using PoseFormer |
 
