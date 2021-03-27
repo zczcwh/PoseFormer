@@ -11,7 +11,7 @@ Our code will be coming soon.
 
 ## Video Demo
 <p align="center">
-  <img src="./figure/H3.6-GIF.gif" width="50" />
-  <img src="./figure/wild.gif" width="50" /> 
+  <img src="./figure/H3.6-GIF.gif" width="30" />
+  <img src="./figure/wild-GIF.gif" width="30" /> 
 </p>
 
