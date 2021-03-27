@@ -60,10 +60,10 @@ python run_poseformer.py -k cpn_ft_h36m_dbb -f 27 -lr 0.0001 -lrd 0.99
 
 `-f` controls how many frames are used as input. 27 frames achieves 47.0 mm, 81 frames achieves achieves 44.3 mm. 
 
-* To train a model from scratch (ground truth 2D pose as input), run:
+* To train a model from scratch (Ground truth 2D pose as input), run:
 
 ```bash
-python run_poseformer.py -k gt -f 27 -lr 0.0001 -lrd 0.99
+python run_poseformer.py -k gt -f 81 -lr 0.0001 -lrd 0.99
 ```
 
 81 frames achieves achieves 31.3 mm. 
