@@ -6,17 +6,17 @@ This repo is the official implementation for [3D Human Pose Estimation with Spat
 Our code will be coming soon.
 
 ## PoseFormer Architecture
-<p align="left"> <img src="./figure/PoseFormer.gif" width="65%"> </p>
+<p align="left"> <img src="./figure/PoseFormer.gif" width="60%"> </p>
 
 
 ## Video Demo
 
 
-| ![H3.6-GIF.gif](./figure/H3.6-GIF.gif) | 
+| <p align="left"> <img src="./figure/PoseFormer.gif" width="30%"> </p> | 
 |:--:| 
 | 3D HPE on Human3.6 |
 
-| ![wild-GIF.gif](./figure/wild-GIF.gif) | 
+| <p align="left"> <img src="./figure/PoseFormer.gif" width="30%"> </p> | 
 |:--:| 
 | 3D HPE on videos in-the-wild using PoseFormer |
 
