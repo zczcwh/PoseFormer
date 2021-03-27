@@ -76,6 +76,16 @@ python run_poseformer.py -k gt -f 81 -lr 0.0001 -lrd 0.99
 
 We keep our code consistent with [VideoPose3D](https://github.com/facebookresearch/VideoPose3D). Please refer to their project page for further information. 
 
+### Bibtex
+If you find our work useful in your research, please consider citing:
+
+    @article{zheng20213d,
+    title={3D Human Pose Estimation with Spatial and Temporal Transformers},
+    author={Zheng, Ce and Zhu, Sijie and Mendieta, Matias and Yang, Taojiannan and Chen, Chen and Ding, Zhengming},
+    journal={arXiv preprint arXiv:2103.10455},
+    year={2021}
+    }
+
 ## Acknowledgement
 
 Part of our code is borrowed from [VideoPose3D](https://github.com/facebookresearch/VideoPose3D). We thank to the authors for releasing codes.
