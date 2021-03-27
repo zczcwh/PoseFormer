@@ -31,6 +31,11 @@ The code is developed and tested on the following environment
 * PyTorch 1.7.1
 * CUDA 11.0
 
+You can create the environment:
+```bash
+conda env create -f poseformer.yml
+```
+
 ### Dataset
 
 Our code is compatible with the dataset setup introduced by [Martinez et al.](https://github.com/una-dinosauria/3d-pose-baseline) and [Pavllo et al.](https://github.com/facebookresearch/VideoPose3D). Please refer to [VideoPose3D](https://github.com/facebookresearch/VideoPose3D) to set up the Human3.6M dataset  (./data directory). 
