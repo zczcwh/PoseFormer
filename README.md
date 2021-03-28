@@ -24,7 +24,7 @@ Our code is built on top of [VideoPose3D](https://github.com/facebookresearch/Vi
 
 ### Environment
 
-The code is developed and tested on the following environment
+The code is developed and tested under the following environment
 
 * Python 3.8.2
 * PyTorch 1.7.1
@@ -70,7 +70,7 @@ python run_poseformer.py -k cpn_ft_h36m_dbb -f 27 -lr 0.0001 -lrd 0.99
 python run_poseformer.py -k gt -f 81 -lr 0.0001 -lrd 0.99
 ```
 
-81 frames achieves achieves 31.3 mm. 
+81 frames achieves 31.3 mm. 
 
 ### Visualization and other functions
 
@@ -88,4 +88,4 @@ If you find our work useful in your research, please consider citing:
 
 ## Acknowledgement
 
-Part of our code is borrowed from [VideoPose3D](https://github.com/facebookresearch/VideoPose3D). We thank to the authors for releasing codes.
+Part of our code is borrowed from [VideoPose3D](https://github.com/facebookresearch/VideoPose3D). We thank the authors for releasing the codes.
