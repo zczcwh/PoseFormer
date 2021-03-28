@@ -10,7 +10,7 @@ This repo is the official implementation for [3D Human Pose Estimation with Spat
 ## Video Demo
 
 
-| <p align="center"> <img src="./figure/H3.6-GIF.gif" width="80%"> </p> | 
+| <p align="center"> <img src="./figure/H3.6.gif" width="80%"> </p> | 
 |:--:| 
 | 3D HPE on Human3.6 |
 
