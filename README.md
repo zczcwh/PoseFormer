@@ -4,7 +4,7 @@ This repo is the official implementation for [3D Human Pose Estimation with Spat
 [Video Demonstration](https://youtu.be/z8HWOdXjGR8)
 
 ## PoseFormer Architecture
-<p align="left"> <img src="./figure/PoseFormer.gif" width="60%"> </p>
+<p align="left"> <img src="./figure/PoseFormer.gif" width="75%"> </p>
 
 
 ## Video Demo
