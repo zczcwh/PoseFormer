@@ -12,7 +12,7 @@ This repo is the official implementation for [3D Human Pose Estimation with Spat
 
 | <p align="center"> <img src="./figure/H3.6.gif" width="80%"> </p> | 
 |:--:| 
-| 3D HPE on Human3.6 |
+| 3D HPE on Human3.6M |
 
 | <p align="center"> <img src="./figure/wild.gif" width="80%"> </p> | 
 |:--:| 
@@ -70,7 +70,7 @@ python run_poseformer.py -k cpn_ft_h36m_dbb -f 27 -lr 0.0001 -lrd 0.99
 python run_poseformer.py -k gt -f 81 -lr 0.0001 -lrd 0.99
 ```
 
-81 frames achieves 31.3 mm. 
+81 frames achieves 31.3 mm (MPJPE). 
 
 ### Visualization and other functions
 
