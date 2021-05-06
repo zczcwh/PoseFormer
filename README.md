@@ -67,7 +67,7 @@ python run_poseformer.py -k cpn_ft_h36m_dbb -f 27 -lr 0.00004 -lrd 0.99
 * To train a model from scratch (Ground truth 2D pose as input), run:
 
 ```bash
-python run_poseformer.py -k gt -f 81 -lr 0.00004 -lrd 0.99
+python run_poseformer.py -k gt -f 81 -lr 0.0004 -lrd 0.99
 ```
 
 81 frames achieves 31.3 mm (MPJPE). 
