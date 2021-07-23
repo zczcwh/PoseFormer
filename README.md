@@ -1,5 +1,5 @@
 # 3D Human Pose Estimation with Spatial and Temporal Transformers
-This repo is the official implementation for [3D Human Pose Estimation with Spatial and Temporal Transformers](https://arxiv.org/pdf/2103.10455.pdf).
+This repo is the official implementation for [3D Human Pose Estimation with Spatial and Temporal Transformers](https://arxiv.org/pdf/2103.10455.pdf). The paper is accepted in [ICCV 2021](http://iccv2021.thecvf.com/home). 
 
 [Video Demonstration](https://youtu.be/z8HWOdXjGR8)
 
@@ -82,7 +82,7 @@ If you find our work useful in your research, please consider citing:
     @article{zheng20213d,
     title={3D Human Pose Estimation with Spatial and Temporal Transformers},
     author={Zheng, Ce and Zhu, Sijie and Mendieta, Matias and Yang, Taojiannan and Chen, Chen and Ding, Zhengming},
-    journal={arXiv preprint arXiv:2103.10455},
+    journal={Proceedings of the IEEE International Conference on Computer Vision (ICCV)},
     year={2021}
     }
 
