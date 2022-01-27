@@ -41,13 +41,13 @@ Our code is compatible with the dataset setup introduced by [Martinez et al.](ht
 
 ### Evaluating pre-trained models
 
-We provide the pre-trained 81-frame model (CPN detected 2D pose as input) [here](https://drive.google.com/file/d/1j0Vto7ljPHMdBndZKtGESaIUym6stAY_/view?usp=sharing). To evaluate it, put it into the `./checkpoint` directory and run:
+We provide the pre-trained 81-frame model (CPN detected 2D pose as input) [here](https://drive.google.com/file/d/1oX5H5QpVoFzyD-Qz9aaP3RDWDb1v1sIy/view?usp=sharing). To evaluate it, put it into the `./checkpoint` directory and run:
 
 ```bash
 python run_poseformer.py -k cpn_ft_h36m_dbb -f 81 -c checkpoint --evaluate detected81f.bin
 ```
 
-We also provide pre-trained 81-frame model (Ground truth 2D pose as input) [here](https://drive.google.com/file/d/1b_f22oFy9_SzoxdpOADS7so7l0Y3JE8-/view?usp=sharing). To evaluate it, put it into the `./checkpoint` directory and run:
+We also provide pre-trained 81-frame model (Ground truth 2D pose as input) [here](https://drive.google.com/file/d/18wW4TdNYxF-zdt9oInmwQK9hEdRJnXzu/view?usp=sharing). To evaluate it, put it into the `./checkpoint` directory and run:
 
 ```bash
 python run_poseformer.py -k gt -f 81 -c checkpoint --evaluate gt81f.bin
