@@ -1,7 +1,8 @@
 # 3D Human Pose Estimation with Spatial and Temporal Transformers
 This repo is the official implementation for [3D Human Pose Estimation with Spatial and Temporal Transformers](https://arxiv.org/pdf/2103.10455.pdf). The paper is accepted to [ICCV 2021](http://iccv2021.thecvf.com/home). 
 
-- Welcome to  check our CVPR 2023 work: [PoseFormerV2](https://github.com/QitaoZhao/PoseFormerV2)
+- **Welcome to check our Neurips 2023 work:** [Context-Aware PoseFormer](https://arxiv.org/pdf/2311.03312.pdf)
+- **Welcome to check our CVPR 2023 work:** [PoseFormerV2](https://github.com/QitaoZhao/PoseFormerV2)
 - Visualization code for in-the-wild videos can be found here [PoseFormer_demo](https://github.com/zczcwh/poseformer_demo)
 
 [Video Demonstration](https://youtu.be/z8HWOdXjGR8)
